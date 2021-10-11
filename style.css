@@ -17,5 +17,6 @@ p {
 }
 
 img {
-    height: 320px;
+    max-width: 100%;
+    height: auto;
 }
